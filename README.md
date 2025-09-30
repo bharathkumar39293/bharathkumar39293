@@ -3,7 +3,8 @@
 ### 📌 Code-Charity / ImprovedTube
 - ✅ Contributed a **Playback Speed Button** feature to the player controls  
   🔗 [Pull Request #3202](https://github.com/code-charity/youtube/pull/3202) (merged into main)  
-- 🎉 Invited to join the [@code-charity/contributors](https://github.com/code-charity) team  
+- 🎉 Invited to join the [@code-charity/contributors](https://github.com/code-charity) team
+- 🎉 Officially joined the [Code-Charity Contributors](https://github.com/orgs/code-charity/teams/contributors) team
   → Helping with **issue triaging, labeling, and improvements**  
 
 ---
