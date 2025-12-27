@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bharath kumar</h1>
-<h3 align="center">A passionate fullstack web developmemt</h3>
+<h3 align="center">A passionate fullstack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkumar&label=Profile%20views&color=0e75b6&style=flat" alt="bharathkumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathkumar" alt="bharathkumar" /></a> </p>
 
-- 🔭 I’m currently working on [CODE CHARITY](https://github.com/code-charity/youtube)
+- 🔭 I’m currently working on [CODE CHARITY] (https://github.com/code-charity/youtube)
 
 - 🌱 I’m currently learning **Next.js, Typescript**
 
