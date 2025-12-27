@@ -14,7 +14,6 @@ Full-stack developer focused on JavaScript, React, and open-source contribution
 - Full-stack developer with hands-on experience in **React, Node.js, Express, MongoDB**
 - Actively contributing to **open-source projects**, primarily **Rocket.Chat**
 - Currently deepening skills in **Next.js and TypeScript**
-- Goal-oriented: **GSoC → long-term remote role**
 
 I care more about **understanding systems and codebases** than just building demos.
 
@@ -61,5 +60,5 @@ I care more about **understanding systems and codebases** than just building dem
 ## Contact
 
 - 📧 Email: Bharathkumar010101@gmail.com
-- 💼 LinkedIn: *(add real link, not just badge)*
+- 💼 LinkedIn: https://www.linkedin.com/in/bharath-kumar-utukuru-6ab491246/
 
