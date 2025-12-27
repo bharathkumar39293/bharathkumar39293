@@ -22,16 +22,17 @@ I care more about **understanding systems and codebases** than just building dem
 
 ## Open-source involvement
 
-- 🧩 Contributor at **Rocket.Chat**
-  - Exploring codebase, fixing issues, and understanding large-scale real-time systems
-  - Interested in backend, performance, and feature-level contributions
+### Code Charity
+- Contributor to the YouTube project under Code Charity
+- Working on real-world features and fixes in a collaborative environment
 
-- 🔭 Contributor at **Code Charity – YouTube project**
-  - Working on real-world production code, not toy apps
-
-*(Links to PRs/issues should go here — add them as soon as you have them.)*
-
----
+**Contributions:**
+- PRs:
+  https://github.com/code-charity/youtube/pull/3202
+  https://github.com/NexGenStudioDev/ciitm-frontend/pull/245
+  https://github.com/rtCamp/frappe-ui-react/pull/98
+  https://github.com/TanStack/tanstack.com/pull/580
+  https://github.com/code-charity/youtube/pull/3332
 
 ## Tech stack (actual working knowledge)
 
