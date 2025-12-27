@@ -1,41 +1,64 @@
-<h1 align="center">Hi 👋, I'm Bharath kumar</h1>
-<h3 align="center">A passionate fullstack web developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathkumar&label=Profile%20views&color=0e75b6&style=flat" alt="bharathkumar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathkumar" alt="bharathkumar" /></a> </p>
-
-- 🔭 I’m currently working on [CODE CHARITY] (https://github.com/code-charity/youtube)
-
-- 🌱 I’m currently learning **Next.js, Typescript**
-
-- 👯 I’m looking to collaborate on [Rocket.chat](https://github.com/RocketChat)
-
-- 🤝 I’m looking for help with [Rocket.chat](https://github.com/RocketChat)
-
-- 👨‍💻 All of my projects are available at [https://portfolio-rose-one-72.vercel.app/](https://portfolio-rose-one-72.vercel.app/)
-
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, NODE.JS, EXPRESS.JS,NEXTJS,TYPESCRIPT,SQLITE, MONGODB**
-
-- 📫 How to reach me **Bharathkumar010101@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/bhara/Downloads/Bharath-resume-Refold%20AI.pdf](file:///C:/Users/bhara/Downloads/Bharath-resume-Refold%20AI.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi, I'm Bharath Kumar</h1>
+<h3 align="center">
+Full-stack developer focused on JavaScript, React, and open-source contribution
+</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+---
 
-###
+## About me
 
-<br clear="both">
+- Full-stack developer with hands-on experience in **React, Node.js, Express, MongoDB**
+- Actively contributing to **open-source projects**, primarily **Rocket.Chat**
+- Currently deepening skills in **Next.js and TypeScript**
+- Goal-oriented: **GSoC → long-term remote role**
 
+I care more about **understanding systems and codebases** than just building demos.
+
+---
+
+## Open-source involvement
+
+- 🧩 Contributor at **Rocket.Chat**
+  - Exploring codebase, fixing issues, and understanding large-scale real-time systems
+  - Interested in backend, performance, and feature-level contributions
+
+- 🔭 Contributor at **Code Charity – YouTube project**
+  - Working on real-world production code, not toy apps
+
+*(Links to PRs/issues should go here — add them as soon as you have them.)*
+
+---
+
+## Tech stack (actual working knowledge)
+
+**Frontend**
+- JavaScript (ES6+), React
+- HTML, CSS, Tailwind
+- Next.js (learning, not claiming mastery)
+
+**Backend**
+- Node.js, Express
+- MongoDB, SQLite
+
+**Other**
+- Git & GitHub
+- Basic DSA in C++ (for problem-solving, not hype)
+
+---
+
+## Projects
+
+- 🌐 Portfolio: https://portfolio-rose-one-72.vercel.app/
+- Open-source contributions: see pinned repositories
+
+---
+
+## Contact
+
+- 📧 Email: Bharathkumar010101@gmail.com
+- 💼 LinkedIn: *(add real link, not just badge)*
 
