@@ -2,11 +2,15 @@
 <h3 align="center">
 Full-stack Developer · Open-source Team Member @ Code Charity (ImprovedTube)
 </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Team%20Member-Code%20Charity-blue?style=flat-square" />
+</p>
 
 <p align="center">
 Currently contributing to <b>ImprovedTube</b>, a widely-used open-source browser extension,
-while actively contributing to <b>Rocket.Chat</b>.
+and <b>studying the Rocket.Chat codebase</b> to prepare for meaningful contributions.
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 </p>
