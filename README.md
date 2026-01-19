@@ -61,7 +61,7 @@ I care more about **understanding systems and codebases** than just building dem
 
 ## Projects
 
-- 🌐 Portfolio: https://portfolio-rose-one-72.vercel.app/
+- 🌐 Portfolio: https://my-portfolio-d6wl.vercel.app/
 - Open-source contributions: see pinned repositories
 
 ---
