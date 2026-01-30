@@ -29,13 +29,11 @@ I care more about **understanding systems and codebases** than just building dem
 ---
 
 ## Open-source involvement
-
-### Code Charity
-- Contributor to the YouTube project under Code Charity
-- Working on real-world features and fixes in a collaborative environment
-
+### Trigger.dev ### Code Charity
 **Contributions:**
 - PRs:
+  https://github.com/triggerdotdev/trigger.dev/pull/2874
+  https://github.com/triggerdotdev/trigger.dev/pull/2875
   https://github.com/code-charity/youtube/pull/3202
   https://github.com/NexGenStudioDev/ciitm-frontend/pull/245
   https://github.com/rtCamp/frappe-ui-react/pull/98
