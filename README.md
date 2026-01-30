@@ -29,7 +29,7 @@ I care more about **understanding systems and codebases** than just building dem
 ---
 
 ## Open-source involvement
-### Trigger.dev ### Code Charity
+### Trigger.dev | Code Charity
 **Contributions:**
 - PRs:
   https://github.com/triggerdotdev/trigger.dev/pull/2874
