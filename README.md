@@ -29,9 +29,10 @@ I care more about **understanding systems and codebases** than just building dem
 ---
 
 ## Open-source involvement
-### Trigger.dev | Code Charity
+### Formbricks | Trigger.dev | Code Charity
 **Contributions:**
 - PRs:
+  https://github.com/formbricks/formbricks/pull/7202
   https://github.com/triggerdotdev/trigger.dev/pull/2874
   https://github.com/triggerdotdev/trigger.dev/pull/2875
   https://github.com/code-charity/youtube/pull/3202
