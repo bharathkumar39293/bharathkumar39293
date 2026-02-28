@@ -7,7 +7,7 @@ Full-stack Developer · Open-source Contributor @FormBricks @Trigger.dev @ Code 
 </p>
 
 <p align="center">
-Currently contributing to <b>Formbricks, Trigger.dev, ImprovedTube /</b>to prepare for meaningful contributions.
+Currently contributing to <b>Formbricks, Trigger.dev, ImprovedTube </b>to prepare for meaningful contributions.
 </p>
 
 <p align="center">
