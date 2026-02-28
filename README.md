@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Bharath Kumar</h1>
 <h3 align="center">
-Full-stack Developer · Open-source Team Member @ Code Charity (ImprovedTube)
+Full-stack Developer · Open-source Contributor @FormBricks @Trigger.dev @ Code Charity (ImprovedTube)
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Team%20Member-Code%20Charity-blue?style=flat-square" />
 </p>
 
 <p align="center">
-Currently contributing to <b>ImprovedTube</b>, a widely-used open-source browser extension,
-and <b>studying the Rocket.Chat codebase</b> to prepare for meaningful contributions.
+Currently contributing to <b>Formbricks, Trigger.dev, ImprovedTube /</b>to prepare for meaningful contributions.
 </p>
 
 <p align="center">
