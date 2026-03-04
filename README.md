@@ -31,14 +31,11 @@ I care more about **understanding systems and codebases** than just building dem
 ### Formbricks | Trigger.dev | Code Charity
 **Contributions:**
 - PRs:
+  https://github.com/formbricks/formbricks/pull/7378
+  https://github.com/formbricks/formbricks/pull/7327
   https://github.com/formbricks/formbricks/pull/7202
   https://github.com/triggerdotdev/trigger.dev/pull/2874
   https://github.com/triggerdotdev/trigger.dev/pull/2875
-  https://github.com/code-charity/youtube/pull/3202
-  https://github.com/NexGenStudioDev/ciitm-frontend/pull/245
-  https://github.com/rtCamp/frappe-ui-react/pull/98
-  https://github.com/TanStack/tanstack.com/pull/580
-  https://github.com/code-charity/youtube/pull/3332
 
 ## Tech stack (actual working knowledge)
 
