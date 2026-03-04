@@ -40,13 +40,12 @@ I care more about **understanding systems and codebases** than just building dem
 ## Tech stack (actual working knowledge)
 
 **Frontend**
-- JavaScript (ES6+), React
-- HTML, CSS, Tailwind
-- Next.js (learning, not claiming mastery)
+- JavaScript (ES6+), React, Next.js
+- HTML, CSS, Tailwind  
 
 **Backend**
 - Node.js, Express
-- MongoDB, SQLite
+- MongoDB, SQLite, PostgreSQl
 
 **Other**
 - Git & GitHub
