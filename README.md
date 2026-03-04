@@ -19,8 +19,8 @@ Currently contributing to <b>Formbricks, Trigger.dev, ImprovedTube </b>to prepar
 
 ## About me
 
-- Full-stack developer with hands-on experience in **React, Node.js, Express, MongoDB**
-- Actively contributing to **open-source projects**, primarily **Rocket.Chat**
+- Full-stack developer with hands-on experience in **Next.js,React, Node.js, Express, MongoDB**
+- Actively contributing to **open-source projects**, primarily **Formbricks**
 - Currently deepening skills in **Next.js and TypeScript**
 
 I care more about **understanding systems and codebases** than just building demos.
@@ -40,7 +40,7 @@ I care more about **understanding systems and codebases** than just building dem
 ## Tech stack (actual working knowledge)
 
 **Frontend**
-- JavaScript (ES6+), React, Next.js
+- JavaScript, TypeScript, React, Next.js
 - HTML, CSS, Tailwind  
 
 **Backend**
