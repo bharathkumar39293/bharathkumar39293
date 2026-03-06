@@ -1,6 +1,17 @@
 <h1 align="center">Hi, I'm Bharath Kumar</h1>
 <h3 align="center">
-Full-stack Developer · Open-source Contributor @FormBricks @Trigger.dev @ Code Charity (ImprovedTube)
+Backend / SDK Systems Engineer
+
+Focus areas
+• command queues
+• client SDK reliability
+• state management
+• race condition debugging
+
+OSS Contributions
+Formbricks
+Trigger.dev
+Code-Charity
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Team%20Member-Code%20Charity-blue?style=flat-square" />
