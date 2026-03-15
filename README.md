@@ -10,8 +10,8 @@ Distributed Orchestration: Building systems that handle idempotency and retries 
 Observability: Closing the gap between execution and telemetry (ClickHouse, OpenTelemetry).
 System Integrity: Debugging complex race conditions that only appear under high load.
 
-🏗️ Featured Open-Source Impact
-Formbricks : fix(sdk): add userId length limit to mitigate DoS attack risk #7378
+🏗️ Featured Open-Source Impact - 
+Formbricks : fix(sdk): add userId length limit to mitigate DoS attack risk #7378 
 Formbricks: fix(js-core): invert expiration logic for SDK error state #7202
 Formbricks: fix(js-core): use closest() fallback for nested click target matching #7327
 Trigger.dev (Infra): Reconciled trace lifecycles with the run engine to mitigate ClickHouse lag in real-time telemetry. #2874
