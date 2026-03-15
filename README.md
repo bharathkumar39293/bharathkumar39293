@@ -33,4 +33,5 @@ Trigger.dev (Infra): Reconciled trace lifecycles with the run engine to mitigate
 
 - 📧 Email: Bharathkumar010101@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/bharath-kumar-utukuru-6ab491246/
+- Portfolio: my-portfolio-d6wl.vercel.app
 
