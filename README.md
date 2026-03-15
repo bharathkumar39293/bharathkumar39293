@@ -11,9 +11,10 @@ Observability: Closing the gap between execution and telemetry (ClickHouse, Open
 System Integrity: Debugging complex race conditions that only appear under high load.
 
 🏗️ Featured Open-Source Impact
-Formbricks (SDK Core): Re-engineered the pre-init command queue to prevent permanent data loss during setup failures. [PR #7226]
-Trigger.dev (Infra): Reconciled trace lifecycles with the run engine to mitigate ClickHouse lag in real-time telemetry. [PR #2874]
-Formbricks (Security): Implemented userId length limits to mitigate DoS risks in public-facing SDK endpoints. [PR #7378]
+Formbricks : fix(sdk): add userId length limit to mitigate DoS attack risk #7378
+Formbricks: fix(js-core): invert expiration logic for SDK error state #7202
+Formbricks: fix(js-core): use closest() fallback for nested click target matching #7327
+Trigger.dev (Infra): Reconciled trace lifecycles with the run engine to mitigate ClickHouse lag in real-time telemetry. #2874
 
 
 # 💻 Tech Stack:
