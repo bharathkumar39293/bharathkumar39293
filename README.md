@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Bharath Kumar</h1>
-media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
-</p>
 
 
 # 💫 About Me:
