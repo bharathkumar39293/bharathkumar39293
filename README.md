@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bharath Kumar</h1>
 
 
-# 💫 About Me:
+# About Me:
 I am a Systems & SDK Engineer obsessed with the "invisible" parts of software—race conditions, command queues, and distributed state. Most of my work is focused on making client-side SDKs bulletproof and ensuring background job infrastructure can handle failures gracefully.<br>Currently, I am a core contributor to Formbricks and Trigger.dev, where I ship fixes for high-stakes infrastructure bugs.
 
 🛠️ What I Care About
