@@ -11,6 +11,7 @@ Observability: Closing the gap between execution and telemetry (ClickHouse, Open
 System Integrity: Debugging complex race conditions that only appear under high load.
 
 🏗️ Featured Open-Source Impact - 
+
 **Formbricks** (5 merged PRs, trusted contributor)
 - [fix(sdk): add userId length limit to mitigate DoS attack risk #7378](https://github.com/formbricks/formbricks/pull/7378) - Security fix with test coverage
 - [fix(js-core): invert expiration logic for SDK error state #7202](https://github.com/formbricks/formbricks/pull/7202) - SDK reliability improvement
