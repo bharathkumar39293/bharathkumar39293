@@ -42,6 +42,7 @@ Final-year Computer Science student, graduating 2026
 
 ## Contact
 
-- 📧 Email: Bharathkumar010101@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/bharath-kumar-utukuru-6ab491246/
+- Email: Bharathkumar010101@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bharath-kumar-utukuru-6ab491246/
+- Portfolio: https://my-portfolio-d6wl.vercel.app/
 
