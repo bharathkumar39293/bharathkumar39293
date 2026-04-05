@@ -11,10 +11,17 @@ Observability: Closing the gap between execution and telemetry (ClickHouse, Open
 System Integrity: Debugging complex race conditions that only appear under high load.
 
 🏗️ Featured Open-Source Impact - 
-Formbricks : fix(sdk): add userId length limit to mitigate DoS attack risk #7378 
-Formbricks: fix(js-core): invert expiration logic for SDK error state #7202
-Formbricks: fix(js-core): use closest() fallback for nested click target matching #7327
-Trigger.dev (Infra): Reconciled trace lifecycles with the run engine to mitigate ClickHouse lag in real-time telemetry. #2874
+**Formbricks** (5 merged PRs, trusted contributor)
+- [fix(sdk): add userId length limit to mitigate DoS attack risk #7378](https://github.com/formbricks/formbricks/pull/7378) - Security fix with test coverage
+- [fix(js-core): invert expiration logic for SDK error state #7202](https://github.com/formbricks/formbricks/pull/7202) - SDK reliability improvement
+- [fix(js-core): use closest() fallback for nested click target matching #7327](https://github.com/formbricks/formbricks/pull/7327) - DOM handling fix
+- Plus 2 additional merged PRs on i18n and accessibility
+
+**Trigger.dev** (1 merged PR)
+- [fix(sdk): stream root fallback handling #2874](https://github.com/triggerdotdev/trigger.dev/pull/2874) - Infrastructure/SDK reliability
+
+**Code-Charity/YouTube** (2 merged PRs)
+- Added playback speed controls and fixed midnight crash issues
 
 
 # 💻 Tech Stack:
