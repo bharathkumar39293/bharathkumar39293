@@ -25,7 +25,7 @@ System Integrity: Debugging complex race conditions that only appear under high 
 - Added playback speed controls and fixed midnight crash issues
 
 ## 🎓 Education
-Final-year Computer Science student, graduating 2026
+B.Tech Final-year Computer Science student, graduating 2026
 
 
 # 💻 Tech Stack:
