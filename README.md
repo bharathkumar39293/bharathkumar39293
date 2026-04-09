@@ -16,16 +16,16 @@ System Integrity: Debugging complex race conditions that only appear under high 
 - [fix(sdk): add userId length limit to mitigate DoS attack risk #7378](https://github.com/formbricks/formbricks/pull/7378) - Security fix with test coverage
 - [fix(js-core): invert expiration logic for SDK error state #7202](https://github.com/formbricks/formbricks/pull/7202) - SDK reliability improvement
 - [fix(js-core): use closest() fallback for nested click target matching #7327](https://github.com/formbricks/formbricks/pull/7327) - DOM handling fix
-- Plus 2 additional merged PRs on i18n and accessibility
+- Plus 2 additional merged PRs on i18n and accessibility.
 
 **Trigger.dev** (1 merged PR)
-- [fix(sdk): stream root fallback handling #2874](https://github.com/triggerdotdev/trigger.dev/pull/2874) - Infrastructure/SDK reliability
+- [fix(sdk): stream root fallback handling #2874](https://github.com/triggerdotdev/trigger.dev/pull/2874) - Infrastructure/SDK reliability.
 
 **Code-Charity/YouTube** (2 merged PRs)
-- Added playback speed controls and fixed midnight crash issues
+- Added playback speed controls and fixed midnight crash issues.
 
 ## 🎓 Education
-B.Tech Final-year Computer Science student, graduating 2026
+B.Tech Final-year Computer Science student, graduating 2026.
 
 
 # 💻 Tech Stack:
