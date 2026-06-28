@@ -18,6 +18,11 @@ System Integrity: Debugging complex race conditions that only appear under high 
 - [fix(js-core): use closest() fallback for nested click target matching #7327](https://github.com/formbricks/formbricks/pull/7327) - DOM handling fix
 - Plus 2 additional merged PRs on i18n and accessibility.
 
+### Svix
+
+- Added regression coverage ensuring POST retries reuse the same idempotency key (#2401).
+- Added coverage for `message.create` payload behavior when `withContent` is disabled (#2419).
+
 **Trigger.dev** (1 merged PR)
 - [fix(sdk): stream root fallback handling #2874](https://github.com/triggerdotdev/trigger.dev/pull/2874) - Infrastructure/SDK reliability.
 
